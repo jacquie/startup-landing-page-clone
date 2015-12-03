@@ -1,0 +1,26 @@
+body {
+	background-color: LightGray;
+}
+div {
+	border: 1px solid Chocolate;
+}
+.navbar {
+	background-color: white;
+	height:70px;
+}
+ul {
+	list-style: none;
+}
+.links li {
+	display:inline;
+	padding-right: 2em;
+	color: Gray;
+}
+.content {
+	width:60rem;
+	height:4.375rem;
+	margin: 0 auto;
+}
+.links {
+	float:right;
+}
